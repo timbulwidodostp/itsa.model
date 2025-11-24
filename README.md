@@ -1,6 +1,8 @@
 # itsa.model
 Interrupted Time Series Analyses Use itsa.model (its.analysis) With (In) R Software
 
+https://www.youtube.com/watch?v=nV7adTxrl9M
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
